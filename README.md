@@ -57,6 +57,7 @@
 
 ## JavaScript 
 
+- [How-To-Ask-Questions-The-Smart-Way](https://github.com/FredWe/How-To-Ask-Questions-The-Smart-Way) - Any update requests plz redirect to original ---&gt;
 - [Anemometer](https://github.com/box/Anemometer) - Box SQL Slow Query Monitor
 - [RedisLive](https://github.com/nkrode/RedisLive) - Visualize your redis instances, analyze query patterns and spikes.
 - [How-To-Ask-Questions-The-Smart-Way](https://github.com/ruby-china/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
