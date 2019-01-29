@@ -23,6 +23,7 @@
 
 ## C 
 
+- [CrazyEye](https://github.com/triaquae/CrazyEye) - OpenSource IT Automation Software
 - [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://my-netdata.io/
 
 ## Go 
@@ -56,6 +57,9 @@
 
 ## JavaScript 
 
+- [Anemometer](https://github.com/box/Anemometer) - Box SQL Slow Query Monitor
+- [RedisLive](https://github.com/nkrode/RedisLive) - Visualize your redis instances, analyze query patterns and spikes.
+- [How-To-Ask-Questions-The-Smart-Way](https://github.com/ruby-china/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
 - [see](https://github.com/myide/see) - 基于开源组件（Inception & SQLAdvisor & SOAR）的SQL审核&SQL优化的Web平台
 - [cleaver](https://github.com/jdan/cleaver) - 30-second slideshows for hackers
 - [500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
@@ -72,6 +76,7 @@
 
 ## Makefile 
 
+- [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。
 - [PyZh](https://github.com/MrKiven/PyZh) - :books: 一起写Python文章，一起看Python文章 - 利用readthedocs的Python技术文章的收集和翻译。
 
 ## Objective-C 
@@ -80,6 +85,10 @@
 
 ## Others 
 
+- [show-me-the-code](https://github.com/Yixiaohan/show-me-the-code) - Python 练习册，每天一个小程序
+- [blog](https://github.com/xufei/blog) - my personal blog
+- [awesome-programming-books](https://github.com/jobbole/awesome-programming-books) - 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
+- [opensource](https://github.com/programthink/opensource) - 【编程随想】收藏的开源项目清单
 - [Coder-Knowledge-Management](https://github.com/imsong52/Coder-Knowledge-Management) - 程序员的知识管理：技术视野与职业规划
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) - 程序员应该访问的最佳网站中文版
@@ -108,6 +117,8 @@
 
 ## Python 
 
+- [redis-faina](https://github.com/facebookarchive/redis-faina) - A query analyzer that parses Redis' MONITOR command for counter/timing stats about query patterns
+- [ngxtop](https://github.com/lebinh/ngxtop) - Real-time metrics for nginx server
 - [algorithm](https://github.com/qiwsir/algorithm) - 
 - [studyFiles](https://github.com/threerocks/studyFiles) - 一些经典且高质量的电子书分享
 - [Athena](https://github.com/ssp4599815/Athena) - a small pass base kubernetes
